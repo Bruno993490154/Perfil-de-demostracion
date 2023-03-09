@@ -1,1 +1,1 @@
-este es un  proyecto personal, una pagina donde muestra una especie de curriculum, todo lo que aprendi los lenguajes,frameworks, ect.
+Este es una Pagina de perfil personal donde muestro quien soy, que hago, en que trabajo y que estoy haciendo dia a dia.
