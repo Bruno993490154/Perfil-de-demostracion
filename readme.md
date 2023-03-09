@@ -1,0 +1,1 @@
+este es un  proyecto personal, una pagina donde muestra una especie de curriculum, todo lo que aprendi los lenguajes,frameworks, ect.

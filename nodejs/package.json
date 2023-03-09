@@ -1,0 +1,22 @@
+{
+  "name": "brunolmv1.1",
+  "version": "1.0.0",
+  "description": "este es un  proyecto personal, una pagina donde muestra una especie de curriculum, todo lo que aprendi los lenguajes,frameworks, ect.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bruno993490154/BrunoLM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bruno993490154/BrunoLM/issues"
+  },
+  "homepage": "https://github.com/Bruno993490154/BrunoLM#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
